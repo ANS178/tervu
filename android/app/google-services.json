@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44014679659",
+    "project_id": "tervu-f9fa6",
+    "storage_bucket": "tervu-f9fa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44014679659:android:8e611559e8f94a2908632e",
+        "android_client_info": {
+          "package_name": "com.annamalai.tervu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44014679659-sq4upe6056qpbfk74atvn32u4cm9k5tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0sP1nwA1m9KzZ2F6mKfStuMZZl8H83XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44014679659-sq4upe6056qpbfk74atvn32u4cm9k5tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
